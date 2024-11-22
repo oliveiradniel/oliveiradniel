@@ -1,0 +1,2 @@
+- 👋 Oi, eu sou o Daniel, sou apaixonado por lógica e tudo que envolve essa complexidade das tecnologias.
+- Atualmente estou focando meus estudos em API's escaláveis com Node.js e aplicações fluídas e responsivas com React.js.
