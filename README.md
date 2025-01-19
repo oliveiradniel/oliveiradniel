@@ -1,4 +1,4 @@
-## Olá! Sou Daniel Oliveira.
+## Olá! Sou Daniel Oliveira, um Jovem Programador.
 
 - Atualmente estou focando meus estudos em API's escaláveis com Node.js e aplicações fluídas e responsivas com React.js.
 
