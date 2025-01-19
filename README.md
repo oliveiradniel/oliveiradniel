@@ -1,16 +1,10 @@
-## Olá! Sou o Daniel Oliveira, desenvolvedor Full Stack.
+## Olá! Sou Daniel Oliveira.
 
-- 👋 Oi, eu sou o Daniel, sou apaixonado por lógica e tudo que envolve essa complexidade das tecnologias.
 - Atualmente estou focando meus estudos em API's escaláveis com Node.js e aplicações fluídas e responsivas com React.js.
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=oliveiradniel&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiradniel&layout=compact&theme=dark" />
-</div>
+## 💻 Hard Skills:
 
-#
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Ícone JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   
   <img align="center" alt="Ícone TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
@@ -22,7 +16,21 @@
   <img align="center" alt="Ícone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   
   <img align="center" alt="Ícone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  
+  <img align="center" alt="Ícone CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  
+  <img align="center" alt="Ícone CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oliveiradniel&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiradniel&layout=compact&theme=dark" />
+</div>
+
+#
+
 
 #
 
