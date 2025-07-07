@@ -1,4 +1,4 @@
-## Olá! Sou Daniel Oliveira, um Jovem Programador.
+## Olá! Sou Daniel Oliveira, desenvolvedor autodidata.
 
 - Sou Desenvolvedor Full Stack Júnior, com foco em criar APIs escaláveis com **Node.js** e aplicações modernas e responsivas com **React.js**.
 Gosto de escrever código limpo, estudar boas práticas e transformar ideias em soluções reais. Atualmente estou em constante evolução, buscando desafios para crescer profissionalmente e contribuir com projetos de impacto.
