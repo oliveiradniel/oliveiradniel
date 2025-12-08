@@ -26,9 +26,9 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
   <img alt="TanStack Table" height="30" width="40" src="https://roastme.ru/derivations/image/image/300/300/eyJpZCI6InVwbG9hZHMvaW1hZ2VzLzE4NTQ1L29yaWdpbmFsLTY4NDVhOGQ5MjcxNjJkYWU2ZDFlNTNiOGEwNjk1NTU4LnN2ZyIsInN0b3JhZ2UiOiJzdG9yZSIsIm1ldGFkYXRhIjp7ImZpbGVuYW1lIjoiUmFja011bHRpcGFydDIwMjIxMjEzLTEtYnNjdTc2LnN2ZyIsIm1pbWVfdHlwZSI6ImltYWdlL3N2Zyt4bWwifX0?signature=e57119656aeacfcc752c27b6fe6a9a1e4e4547c99be310d5031cb7cb795a92e3" title="TanStack Table" />
   <img alt="TanStack Router" height="30" width="40" src="https://tanstack.dev/_build/assets/splash-dark-8nwlc0Nt.png" title="TanStack Router" />
   <img alt="React Router" height="30" width="40" src="https://www.svgrepo.com/show/354262/react-router.svg" title="React Router" />
-  <img alt="React Hook Form" height="30" width="40" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" title="React Hook Form" />
+  <img alt="React Hook Form" height="40" width="40" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" title="React Hook Form" />
   <img alt="TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg" title="TailwindCSS" />
-  <img alt="Shadcn" height="30" width="40" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" title="Shadcn" />
+  <img alt="Shadcn" height="40" width="40" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" title="Shadcn" />
 </div>
 
 ### Back-end
