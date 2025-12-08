@@ -13,37 +13,32 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
 
 ---
 
-## ⚒️ Linguagens & Tecnologias
+## ⚒️ Tecnologias
 
+### Front-end
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" title="JavaScript" />
-
-   <img alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg" title="TypeScript" />
-  
-  <img alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg" title="HTML" />
-  
-  <img alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg" title="CSS" />
-  
+  <img alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" title="JavaScript" />
+  <img alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg" title="TypeScript" />
   <img alt="React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg" title="React" />
-  
   <img alt="React Query" height="30" width="40" src="https://files.svgcdn.io/logos/react-query-icon.svg" title="React Query" />
-  
-  <img alt="Node.js" height="30" width="40" src="https://www.svgrepo.com/show/373929/node.svg" title="Node.js" />
-  
-  <img alt="NestJS" height="30" width="40" src="https://www.svgrepo.com/show/373872/nestjs.svg" title="NestJS" />
-  
+  <img alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg" title="HTML" />
+  <img alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg" title="CSS" />
   <img alt="TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg" title="TailwindCSS" />
-  
+</div>
+
+### Back-end
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <img alt="Node.js" height="30" width="40" src="https://www.svgrepo.com/show/373929/node.svg" title="Node.js" />
+  <img alt="NestJS" height="30" width="40" src="https://www.svgrepo.com/show/373872/nestjs.svg" title="NestJS" />
   <img alt="Prisma ORM" height="30" width="40" src="https://www.svgrepo.com/show/374002/prisma.svg" title="Prisma ORM" />
-  
   <img alt="PostgreSQL" height="30" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL" />
-  
+</div>
+
+### Infra / DevOps
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
   <img alt="Docker" height="30" width="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg" title="Docker" />
-  
   <img alt="Nginx" height="30" width="40" src="https://www.svgrepo.com/show/354115/nginx.svg" title="Nginx" />
-  
   <img alt="Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg" title="Git" />
-  
   <img alt="GitHub" height="30" width="40" src="https://www.svgrepo.com/show/450156/github.svg" title="GitHub" />
 </div>
 
