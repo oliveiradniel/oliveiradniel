@@ -1,10 +1,10 @@
 # 🧑🏻‍💻 Daniel Kadã
 
-**`Apenas um curioso comprometido (que escreve códigos)`**
+**`Um curioso comprometido que transforma ideias em códigos`**
 
-Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **desenvolvedor full-stack**, sempre curioso e comprometido em aprender mais. Tenho foco em criar **APIs escaláveis com Node.js (NestJS)** e **interfaces modernas e responsivas com React.js**. Prezo por código limpo, boas práticas e soluções que realmente gerem impacto.
+Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **desenvolvedor full-stack**, sempre curioso e comprometido em aprender mais. Tenho foco em criar **APIs escaláveis com Node.js (NestJS)** e **interfaces modernas e responsivas com React.js**, sempre prezando por código limpo, boas práticas e soluções que realmente gerem impacto.
 
-<div style="display: inline_block">
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
   <a href="https://jovemprogramador.dev/"><img src="https://img.shields.io/badge/portf%C3%B3lio-0099f4?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxwYXRoIGQ9Ik0zMCA1Ljk4NGgtNy45ODh2LTEuOTM4YzAtMS42NTUtMS4zNDYtMy0zLTNoLTYuMDE0Yy0xLjY1NSAwLTMgMS4zNDUtMyAzdjEuOTM4aC03Ljk5OWMtMS4wOTkgMC0yIDAuOTAxLTIgMnY3LjAwOGgtMC4wMDF2MmgwLjAwMXYxMS45NjNjMCAxLjA5OSAwLjkgMiAyIDJoMjhjMS4wOTkgMCAyLTAuOTAxIDItMnYtMjAuOTcxYzAtMS4wOTktMC45MDEtMi0yLTJoMHpNMTEuOTk5IDQuMDQ2YzAtMC41NTIgMC40NDgtMSAxLTFoNi4wMTNjMC41NTIgMCAxIDAuNDQ4IDEgMXYxLjkzOGgtOC4wMTR6TTIuMDAxIDcuOTg0aDI4djcuMDA4aC0xMS4wMTJ2LTEuMDI0YzAtMS4xMDItMC44OTgtMi0yLTJoLTEuOTkyYy0xLjEwMiAwLTIgMC44OTgtMiAydjEuMDI0aC0xMC45OTZ2LTcuMDA4ek0xNi45OSAxOS4wMDRoLTEuOTk0di01LjAzNmgxLjk5MnpNMiAyOC45NTR2LTExLjk2M2gxMC45OTZ2Mi4wMTJjMCAxLjEwMiAwLjg5NyAyIDIgMmgxLjk5MmMxLjEwMiAwIDItMC44OTggMi0ydi0yLjAxMmgxMS4wMTJ2MTEuOTYzaC0yOHoiLz4gPC9nPgoNPC9zdmc+" alt="Portfólio do Daniel Kadã para recrutadores"></a>
   <a href="https://www.instagram.com/dkada.dev/"><img src="https://img.shields.io/badge/-Instagram-0099f4?style=for-the-badge&logo=instagram&logoColor=white" alt="Perfil do Daniel Kadã no Instagram"></a>
   <a href = "mailto:kadadniel@gmail.com"><img src="https://img.shields.io/badge/gmail-0099f4?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail do Daniel Kadã"></a>
@@ -15,36 +15,36 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
 
 ## ⚒️ Linguagens & Tecnologias
 
-<div style="display: inline_block">
-  <img align="center" alt="Ícone JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" title="JavaScript" />
 
-   <img align="center" alt="Ícone HTML" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg" />
+   <img alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg" title="TypeScript" />
   
-  <img align="center" alt="Ícone CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg" />
+  <img alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg" title="HTML" />
   
-  <img align="center" alt="Ícone TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg" />
+  <img alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg" title="CSS" />
   
-  <img align="center" alt="Ícone React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg" />
+  <img alt="React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg" title="React" />
   
-  <img align="center" alt="Ícone React Query" height="30" width="40" src="https://files.svgcdn.io/logos/react-query-icon.svg" />
+  <img alt="React Query" height="30" width="40" src="https://files.svgcdn.io/logos/react-query-icon.svg" title="React Query" />
   
-  <img align="center" alt="Ícone Node.js" height="30" width="40" src="https://www.svgrepo.com/show/373929/node.svg" />
+  <img alt="Node.js" height="30" width="40" src="https://www.svgrepo.com/show/373929/node.svg" title="Node.js" />
   
-  <img align="center" alt="Ícone NestJS" height="30" width="40" src="https://www.svgrepo.com/show/373872/nestjs.svg" />
+  <img alt="NestJS" height="30" width="40" src="https://www.svgrepo.com/show/373872/nestjs.svg" title="NestJS" />
   
-  <img align="center" alt="Ícone TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
+  <img alt="TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg" title="TailwindCSS" />
   
-  <img align="center" alt="Ícone Prisma ORM" height="30" width="40" src="https://www.svgrepo.com/show/374002/prisma.svg" />
+  <img alt="Prisma ORM" height="30" width="40" src="https://www.svgrepo.com/show/374002/prisma.svg" title="Prisma ORM" />
   
-  <img align="center" alt="Ícone PostgreSQL" height="30" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
+  <img alt="PostgreSQL" height="30" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL" />
   
-  <img align="center" alt="Ícone Docker" height="30" width="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg" />
+  <img alt="Docker" height="30" width="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg" title="Docker" />
   
-  <img align="center" alt="Ícone Nginx" height="30" width="40" src="https://www.svgrepo.com/show/354115/nginx.svg" />
+  <img alt="Nginx" height="30" width="40" src="https://www.svgrepo.com/show/354115/nginx.svg" title="Nginx" />
   
-  <img align="center" alt="Ícone Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg" />
+  <img alt="Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg" title="Git" />
   
-  <img align="center" alt="Ícone GitHub" height="30" width="40" src="https://www.svgrepo.com/show/450156/github.svg" />
+  <img alt="GitHub" height="30" width="40" src="https://www.svgrepo.com/show/450156/github.svg" title="GitHub" />
 </div>
 
 ---
@@ -53,22 +53,28 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
 
 ### 📚 Jovem Books
 
+**Descrição:** Plataforma de gestão de livros para jovens leitores.
+
 <a href="https://github.com/oliveiradniel/jovem-books-front-end"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=jovem-books-front-end&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 <a href="https://github.com/oliveiradniel/jovem-books-back-end"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=jovem-books-back-end&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 
 ### 💰 Fincheck
+
+**Descrição:** Aplicativo de controle financeiro pessoal e análise de gastos.
 
 <a href="https://github.com/oliveiradniel/fincheck-frontend"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=fincheck-frontend&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 <a href="https://github.com/oliveiradniel/fincheck-api"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=fincheck-api&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 
 ### 📄 inOrbit
 
+**Descrição:** Sistema para tarefas semanais com sistema de gamificação.
+
 <a href="https://github.com/oliveiradniel/in.orbit-web"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=in.orbit-web&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 <a href="https://github.com/oliveiradniel/in.orbit-server"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=in.orbit-server&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 
 ---
 
-## 📊 Sequência & Estatísticas de perfil do GitHub
+## 📊 GitHub & Estatísticas
 
 <div>
   
