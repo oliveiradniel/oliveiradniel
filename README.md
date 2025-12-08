@@ -16,7 +16,7 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
 ## ⚒️ Tecnologias
 
 ### Front-end
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
   <img alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg" title="HTML" />
   <img alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg" title="CSS" />
   <img alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" title="JavaScript" />
@@ -32,7 +32,7 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
 </div>
 
 ### Back-end
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
   <img alt="Node.js" height="30" width="40" src="https://www.svgrepo.com/show/373929/node.svg" title="Node.js" />
   <img alt="NestJS" height="30" width="40" src="https://www.svgrepo.com/show/373872/nestjs.svg" title="NestJS" />
   <img alt="Prisma ORM" height="30" width="40" src="https://www.svgrepo.com/show/374002/prisma.svg" title="Prisma ORM" />
@@ -40,7 +40,7 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
 </div>
 
 ### Infra / DevOps
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
   <img alt="Docker" height="30" width="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg" title="Docker" />
   <img alt="Nginx" height="30" width="40" src="https://www.svgrepo.com/show/354115/nginx.svg" title="Nginx" />
   <img alt="Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg" title="Git" />
