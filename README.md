@@ -17,13 +17,18 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
 
 ### Front-end
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <img alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg" title="HTML" />
+  <img alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg" title="CSS" />
   <img alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" title="JavaScript" />
   <img alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg" title="TypeScript" />
   <img alt="React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg" title="React" />
-  <img alt="React Query" height="30" width="40" src="https://files.svgcdn.io/logos/react-query-icon.svg" title="React Query" />
-  <img alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg" title="HTML" />
-  <img alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg" title="CSS" />
+  <img alt="TanStack Query" height="30" width="40" src="https://files.svgcdn.io/logos/react-query-icon.svg" title="TanStack Query" />
+  <img alt="TanStack Table" height="30" width="40" src="https://roastme.ru/derivations/image/image/300/300/eyJpZCI6InVwbG9hZHMvaW1hZ2VzLzE4NTQ1L29yaWdpbmFsLTY4NDVhOGQ5MjcxNjJkYWU2ZDFlNTNiOGEwNjk1NTU4LnN2ZyIsInN0b3JhZ2UiOiJzdG9yZSIsIm1ldGFkYXRhIjp7ImZpbGVuYW1lIjoiUmFja011bHRpcGFydDIwMjIxMjEzLTEtYnNjdTc2LnN2ZyIsIm1pbWVfdHlwZSI6ImltYWdlL3N2Zyt4bWwifX0?signature=e57119656aeacfcc752c27b6fe6a9a1e4e4547c99be310d5031cb7cb795a92e3" title="TanStack Table" />
+  <img alt="TanStack Router" height="30" width="40" src="https://tanstack.dev/_build/assets/splash-dark-8nwlc0Nt.png" title="TanStack Router" />
+  <img alt="React Router" height="30" width="40" src="https://www.svgrepo.com/show/354262/react-router.svg" title="React Router" />
+  <img alt="React Hook Form" height="30" width="40" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDMiIGhlaWdodD0iMjAyIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyI+PHBhdGggZD0iTTE1Ny45OTUgOC41YzEwLjA4IDAgMTkuMjA2IDQuMDg3IDI1LjgxMiAxMC42OTJTMTk0LjUgMzQuOTI0IDE5NC41IDQ1LjAwM2gwdjExMS45OTRjMCAxMC4wOC00LjA4NiAxOS4yMDYtMTAuNjkyIDI1LjgxMmEzNi4zOSAzNi4zOSAwIDAgMS0yNS44MTMgMTAuNjkxaDAtMTEyLjk5Yy0xMC4wOCAwLTE5LjIwNi00LjA4Ny0yNS44MTItMTAuNjkyUzguNSAxNjcuMDc2IDguNSAxNTYuOTk3aDBWNDUuMDAzYzAtMTAuMDggNC4wODYtMTkuMjA2IDEwLjY5Mi0yNS44MTJBMzYuMzkgMzYuMzkgMCAwIDEgNDUuMDA1IDguNWgweiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjE3IiBmaWxsPSIjZWM1OTkwIi8+PHBhdGggZD0iTTEzMy4zODUgNTEuNjA0aC0yMC44NjhjLTEuNTMtNC43NjYtNS45ODEtOC4wMDEtMTEuMDA5LTguMDAxcy05LjQ3OSAzLjIzNS0xMS4wMDkgOC4wMDFINjkuNjE2Yy04LjIyMiAwLTE0Ljg4NyA2LjYzMi0xNC44ODcgMTQuODEzdjc3LjE3N2MwIDguMTgxIDYuNjY1IDE0LjgxMyAxNC44ODcgMTQuODEzaDYzLjc2OWM4LjIyMiAwIDE0Ljg4Ny02LjYzMiAxNC44ODctMTQuODEzVjY2LjQxN2MwLTguMTgxLTYuNjY1LTE0LjgxMy0xNC44ODctMTQuODEzaDB6TTkxLjU0IDU0LjI5N2ExLjM1IDEuMzUgMCAwIDAgMS4zNTMtMS4wNjRjLjg4Ni00LjA0NiA0LjQ4Ni02LjkzMiA4LjY0OC02LjkzMnM3Ljc2MiAyLjg4NSA4LjY0OCA2LjkzMmExLjM1IDEuMzUgMCAwIDAgMS4zNTMgMS4wNjRoNy4yODF2OC44MjFjMCAyLjIzMS0xLjgxOCA0LjA0LTQuMDYgNC4wNEg4OC4zMDVjLTIuMjQyIDAtNC4wNi0xLjgwOS00LjA2LTQuMDR2LTguODIxaDcuMjk0em01NC4wMjUgODkuMjk3YzAgNi42OTQtNS40NTMgMTIuMTItMTIuMTggMTIuMTJINjkuNjE2Yy02LjcyNyAwLTEyLjE4LTUuNDI2LTEyLjE4LTEyLjEyVjY2LjQxN2MwLTYuNjk0IDUuNDUzLTEyLjEyIDEyLjE4LTEyLjEyaDExLjkyM3Y4LjgyMWMwIDMuNzE5IDMuMDMgNi43MzMgNi43NjcgNi43MzNoMjYuMzljMy43MzcgMCA2Ljc2Ny0zLjAxNSA2Ljc2Ny02LjczM3YtOC44MjFoMTEuOTIzYzYuNzI3IDAgMTIuMTggNS40MjYgMTIuMTggMTIuMTJ2NzcuMTc3em0tMTQuODMzLTQ3Ljk4MWgtMjMuODE5YTEuMzUgMS4zNSAwIDAgMC0xLjM1MyAxLjM0NyAxLjM1IDEuMzUgMCAwIDAgMS4zNTMgMS4zNDdoMjMuODE5YTEuMzUgMS4zNSAwIDAgMCAxLjM1My0xLjM0NyAxLjM1IDEuMzUgMCAwIDAtMS4zNTMtMS4zNDdoMHptLTM1LjE4NiAwSDcxLjcyN2ExLjM1IDEuMzUgMCAwIDAtMS4zNTMgMS4zNDcgMS4zNSAxLjM1IDAgMCAwIDEuMzUzIDEuMzQ3aDIzLjgxOWExLjM1IDEuMzUgMCAwIDAgMS4zNTMtMS4zNDcgMS4zNSAxLjM1IDAgMCAwLTEuMzUzLTEuMzQ3aDB6bTM1LjI1NCAzMi41ODloLTIzLjg4NmExLjM1IDEuMzUgMCAwIDAtMS4zNTMgMS4zNDcgMS4zNSAxLjM1IDAgMCAwIDEuMzUzIDEuMzQ3SDEzMC44YTEuMzUgMS4zNSAwIDAgMCAxLjM1My0xLjM0NyAxLjM1IDEuMzUgMCAwIDAtMS4zNTMtMS4zNDdoMHptLTM1LjE4NyAwSDcxLjcyN2ExLjM1IDEuMzUgMCAwIDAtMS4zNTMgMS4zNDcgMS4zNSAxLjM1IDAgMCAwIDEuMzUzIDEuMzQ3aDIzLjg4NmExLjM1IDEuMzUgMCAwIDAgMS4zNTMtMS4zNDcgMS4zNSAxLjM1IDAgMCAwLTEuMzUzLTEuMzQ3aDB6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" title="React Hook Form" />
   <img alt="TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg" title="TailwindCSS" />
+  <img alt="Shadcn" height="30" width="40" src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" title="Shadcn" />
 </div>
 
 ### Back-end
@@ -40,6 +45,7 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
   <img alt="Nginx" height="30" width="40" src="https://www.svgrepo.com/show/354115/nginx.svg" title="Nginx" />
   <img alt="Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg" title="Git" />
   <img alt="GitHub" height="30" width="40" src="https://www.svgrepo.com/show/450156/github.svg" title="GitHub" />
+  <img alt="RabbitMQ" height="30" width="40" src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" title="RabbitMQ" />
 </div>
 
 ---
