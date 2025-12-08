@@ -53,18 +53,18 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
 
 ### 📚 Jovem Books
 
-<a href="https://github.com/oliveiradniel/jovem-books-front-end"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliveiradniel&repo=jovem-books-front-end&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
-<a href="https://github.com/oliveiradniel/jovem-books-back-end"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliveiradniel&repo=jovem-books-back-end&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
+<a href="https://github.com/oliveiradniel/jovem-books-front-end"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=jovem-books-front-end&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
+<a href="https://github.com/oliveiradniel/jovem-books-back-end"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=jovem-books-back-end&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 
 ### 💰 Fincheck
 
-<a href="https://github.com/oliveiradniel/fincheck-frontend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliveiradniel&repo=fincheck-frontend&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
-<a href="https://github.com/oliveiradniel/fincheck-api"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliveiradniel&repo=fincheck-api&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
+<a href="https://github.com/oliveiradniel/fincheck-frontend"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=fincheck-frontend&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
+<a href="https://github.com/oliveiradniel/fincheck-api"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=fincheck-api&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 
 ### 📄 inOrbit
 
-<a href="https://github.com/oliveiradniel/in.orbit-web"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliveiradniel&repo=in.orbit-web&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
-<a href="https://github.com/oliveiradniel/in.orbit-server"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliveiradniel&repo=in.orbit-server&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
+<a href="https://github.com/oliveiradniel/in.orbit-web"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=in.orbit-web&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
+<a href="https://github.com/oliveiradniel/in.orbit-server"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=in.orbit-server&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 
 ---
 
@@ -72,7 +72,7 @@ Me chamo Daniel Kadã, tenho 24 anos e sou natural de Brodowski/SP. Sou um **des
 
 <div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=oliveiradniel&hide_border=true&theme=monokai-metallian&locale=pt_BR&short_numbers=true&ring=0099f4&fire=0099f4&currStreakNum=9F9F9F&currStreakLabel=0099f4&sideNums=0099f4&sideLabels=0099f4&dates=9F9F9F" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=oliveiradniel&show_icons=true&theme=dark&hide_border=true&title_color=0099f4&icon_color=0099f4&bg_color=1F222E&locale=pt-br" />
+  <img src="https://github-readme-stats-ten-flax-54.vercel.app/api?username=oliveiradniel&show_icons=true&theme=dark&hide_border=true&title_color=0099f4&icon_color=0099f4&bg_color=1F222E&locale=pt-br" />
 </div>
 
 
