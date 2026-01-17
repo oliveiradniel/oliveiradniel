@@ -13,6 +13,46 @@ Sou desenvolvedor full stack com foco em **APIs escaláveis utilizando Node.js e
 
 ---
 
+## 🛠️ Ferramentas & Tecnologias
+
+### Front End (UI/State/Forms)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-20232A?style=for-the-badge&logo=react-hook-form&logoColor=61DAFB)](https://react-hook-form.com/)
+[![TanStack](https://img.shields.io/badge/TanStack_(Query,_Table,_Router)-20232A?style=for-the-badge&logo=tanstack&logoColor=61DAFB)](https://tanstack.com/)
+[![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/)
+
+### Back End (API/Auth/Messaging)
+
+[![Node.js](https://img.shields.io/badge/Node.js-84C00B?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/pt-br/)
+[![Prisma](https://img.shields.io/badge/Prisma-7B7C7F?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-A456BD?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+
+### Outros: Infra/Qualidade
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://git-scm.com/)
+[![Vitest](https://img.shields.io/badge/Vitest-1AED8D?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
+[![Docker & Docker Compose](https://img.shields.io/badge/Docker_&_Docker_Compose-428BFF?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+
+---
+
 ## 🚀 Projetos
 
 ### 🗂️ JungleOps - Plataforma de Gestão Colaborativa em Tempo Real - [Deploy](https://jungleops.com.br/cadastro?redirect=%2Ftarefas)
@@ -63,42 +103,5 @@ Aplicação web full stack para gerenciamento de livros, usuários e fluxo de da
 
 - **Front-end:** React, TypeScript, Vite, TailwindCSS
 - **Back-end:** Node.js, Express, TypeScript, Prisma, AWS (pre-signed URLs, S3) 
-
----
-
-## ⚒️ Tecnologias
-
-### Front-end
-<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
-  <img alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg" title="HTML" />
-  <img alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg" title="CSS" />
-  <img alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" title="JavaScript" />
-  <img alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg" title="TypeScript" />
-  <img alt="React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg" title="React" />
-  <img alt="TanStack Query" height="30" width="40" src="https://files.svgcdn.io/logos/react-query-icon.svg" title="TanStack Query" />
-  <img alt="TanStack Table" height="30" width="40" src="https://roastme.ru/derivations/image/image/300/300/eyJpZCI6InVwbG9hZHMvaW1hZ2VzLzE4NTQ1L29yaWdpbmFsLTY4NDVhOGQ5MjcxNjJkYWU2ZDFlNTNiOGEwNjk1NTU4LnN2ZyIsInN0b3JhZ2UiOiJzdG9yZSIsIm1ldGFkYXRhIjp7ImZpbGVuYW1lIjoiUmFja011bHRpcGFydDIwMjIxMjEzLTEtYnNjdTc2LnN2ZyIsIm1pbWVfdHlwZSI6ImltYWdlL3N2Zyt4bWwifX0?signature=e57119656aeacfcc752c27b6fe6a9a1e4e4547c99be310d5031cb7cb795a92e3" title="TanStack Table" />
-  <img alt="TanStack Router" height="30" width="40" src="https://tanstack.dev/_build/assets/splash-dark-8nwlc0Nt.png" title="TanStack Router" />
-  <img alt="React Router" height="30" width="40" src="https://www.svgrepo.com/show/354262/react-router.svg" title="React Router" />
-  <img alt="React Hook Form" height="40" width="40" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" title="React Hook Form" />
-  <img alt="TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg" title="TailwindCSS" />
-  <img alt="Shadcn" height="40" width="40" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" title="Shadcn" />
-</div>
-
-### Back-end
-<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
-  <img alt="Node.js" height="30" width="40" src="https://www.svgrepo.com/show/373929/node.svg" title="Node.js" />
-  <img alt="NestJS" height="30" width="40" src="https://www.svgrepo.com/show/373872/nestjs.svg" title="NestJS" />
-  <img alt="Prisma ORM" height="30" width="40" src="https://www.svgrepo.com/show/374002/prisma.svg" title="Prisma ORM" />
-  <img alt="PostgreSQL" height="30" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL" />
-</div>
-
-### Infra / DevOps
-<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
-  <img alt="Docker" height="30" width="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg" title="Docker" />
-  <img alt="Nginx" height="30" width="40" src="https://www.svgrepo.com/show/354115/nginx.svg" title="Nginx" />
-  <img alt="Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg" title="Git" />
-  <img alt="GitHub" height="30" width="40" src="https://www.svgrepo.com/show/450156/github.svg" title="GitHub" />
-  <img alt="RabbitMQ" height="30" width="40" src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" title="RabbitMQ" />
-</div>
 
 
