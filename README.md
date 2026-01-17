@@ -101,14 +101,4 @@ Aplicação web full stack para gerenciamento de livros, usuários e fluxo de da
   <img alt="RabbitMQ" height="30" width="40" src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" title="RabbitMQ" />
 </div>
 
----
-
-## 📊 GitHub & Estatísticas
-
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-r7zw.vercel.app/?user=oliveiradniel&theme=monokai-metallian&locale=pt_BR&background=1F222E&hide_border=true&short_numbers=true&ring=0099f4&fire=0099f4&currStreakNum=9F9F9F&currStreakLabel=0099f4&sideNums=0099f4&sideLabels=0099f4&dates=9F9F9F" alt="GitHub Streak" /></a>
-  
-  <img src="https://github-readme-stats-ten-flax-54.vercel.app/api?username=oliveiradniel&show_icons=true&theme=dark&hide_border=true&title_color=0099f4&icon_color=0099f4&bg_color=1F222E&locale=pt-br" />
-</div>
-
 
