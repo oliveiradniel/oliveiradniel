@@ -13,6 +13,59 @@ Sou desenvolvedor full stack com foco em **APIs escaláveis utilizando Node.js e
 
 ---
 
+## 🚀 Projetos
+
+### 🗂️ JungleOps - Plataforma de Gestão Colaborativa em Tempo Real - [Deploy](https://jungleops.com.br/cadastro?redirect=%2Ftarefas)
+ 
+Sistema web full stack para gestão de tarefas e colaboração em tempo real, projetado com foco em escalabilidade, arquitetura moderna e experiência do usuário.
+
+#### Funcionalidades
+
+- Autenticação centralizada e controle de acesso
+- Criação e gerenciamento de tarefas
+- Comentários e atualizações em tempo real via WebSockets
+- Sincronização automática de dados e notificações
+- Interface moderna, acessível e responsiva 
+
+#### Diferenciais Técnicos
+
+- Arquitetura de microserviços em monorepo
+- Comunicação híbrida: HTTP, RabbitMQ e WebSockets
+- Front-end com componentes acessíveis e reutilizáveis
+- Gerenciamento de estado assíncrono com cache inteligente
+
+#### Tecnologias
+
+- **Front-end:** React, TypeScript, Vite, TailwindCSS, shadcn/ui, Radix UI, React Hook Form, TanStack Query, Router, Table
+- **Back-end:** NestJS, Node.js, TypeScript, Swagger, TypeORM, PostgreSQL, RabbitMQ, WebSockets
+- **Infra:** Docker, Docker Compose, Nginx, CI/CD
+- **Outros:** Monorepo, Git/GitHub, Clean Code, Arquitetura Modular
+
+### 📚 Jovem Books - Sistema de Gestão e Catálogo de Livros - [Deploy](https://jovembooks.com.br/sign-up)
+
+Aplicação web full stack para gerenciamento de livros, usuários e fluxo de dados, desenvolvida com foco em organização, clareza de código e boas práticas.
+
+#### Funcionalidades
+
+- Cadastro e listagem de livros
+- Operações CRUD completas
+- Envio de arquivos seguros através de pre-signed URLs
+- Integração eficiente e segura entre front-end e API REST
+
+#### Diferenciais Técnicos
+
+- Separação clara de responsabilidades entre camadas
+- API REST bem estruturada e tipada
+- Validações e tratamento de erros consistentes
+- Interface focada em simplicidade e experiência do usuário
+
+#### Tecnologias
+
+- **Front-end:** React, TypeScript, Vite, TailwindCSS
+- **Back-end:** Node.js, Express, TypeScript, Prisma, AWS (pre-signed URLs, S3) 
+
+---
+
 ## ⚒️ Tecnologias
 
 ### Front-end
@@ -47,32 +100,6 @@ Sou desenvolvedor full stack com foco em **APIs escaláveis utilizando Node.js e
   <img alt="GitHub" height="30" width="40" src="https://www.svgrepo.com/show/450156/github.svg" title="GitHub" />
   <img alt="RabbitMQ" height="30" width="40" src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" title="RabbitMQ" />
 </div>
-
----
-
-## 🚀 Principais projetos
-
-### 📚 Jovem Books
-
-**Descrição:** Plataforma de gestão de livros para jovens leitores.
-
-<a href="https://github.com/oliveiradniel/jovem-books-front-end"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=jovem-books-front-end&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
-<a href="https://github.com/oliveiradniel/jovem-books-back-end"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=jovem-books-back-end&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
-
-### 💰 Fincheck
-
-**Descrição:** Aplicativo de controle financeiro pessoal e análise de gastos.
-
-<a href="https://github.com/oliveiradniel/fincheck-frontend"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=fincheck-frontend&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
-<a href="https://github.com/oliveiradniel/fincheck-api"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=fincheck-api&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
-
-### 📄 inOrbit
-
-**Descrição:** Sistema para tarefas semanais com sistema de gamificação.
-
-<a href="https://github.com/oliveiradniel/in.orbit-web"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=in.orbit-web&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
-
-<a href="https://github.com/oliveiradniel/in.orbit-server"><img align="center" src="https://github-readme-stats-ten-flax-54.vercel.app/api/pin/?username=oliveiradniel&repo=in.orbit-server&hide_border=true&icon_color=0099f4&bg_color=1F222E&title_color=0099f4&text_color=9F9F9F" height="140" /></a>
 
 ---
 
