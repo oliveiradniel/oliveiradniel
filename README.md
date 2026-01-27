@@ -80,6 +80,30 @@ Sistema web full stack para gestão de tarefas e colaboração em tempo real, pr
 - **Back-end:** NestJS, Node.js, TypeScript, Swagger, TypeORM, PostgreSQL, RabbitMQ, WebSockets
 - **Infra:** Docker, Docker Compose, Nginx, CI/CD
 - **Outros:** Monorepo, Git/GitHub, Clean Code, Arquitetura Modular
+- 
+### 🚀 inOrbit - Plataforma de Gestão de Metas Semanais - [Deploy](https://app.inorbit.site/login)
+ 
+Aplicação web full stack para gerenciamento de metas pessoais e acompanhamento de progresso, com gamificação e integração com GitHub.
+
+#### Funcionalidades
+
+- Criação de perfis e integração OAuth com GitHub
+- Definição e acompanhamento de metas semanais
+- Sistema de pontos, níveis e métricas de engajamento
+- Histórico detalhado de execuções
+
+#### Diferenciais Técnicos
+
+- Modelagem de dados relacional com queries avançadas e validações temporais
+- API REST modular com NestJS e injeção de dependências
+- Testes unitários e de integração com Vitest e factories de mocks
+- Pipeline de CI/CD e deploy containerizado com Docker e Nginx
+
+#### Tecnologias
+
+- **Front-end:** React, TypeScript, TanStack Router, React Hook Form, TailwindCSS
+- **Back-end:** NestJS, TypeScript, Prisma, PostgreSQL, REST API
+- **Infra:** Docker, Nginx, Git/GitHub, CI/CD
 
 ### 📚 Jovem Books - Sistema de Gestão e Catálogo de Livros - [Deploy](https://jovembooks.com.br/sign-up)
 
