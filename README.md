@@ -1,8 +1,12 @@
-# 🧑🏻‍💻 Daniel Kadã
+# 🧑🏻‍💻 Daniel (Kadã) Oliveira
 
-**`Full Stack Develeloper`**
+**`Full Stack Software Engineer | React • TypeScript • NestJS • System Architecture`**
 
-Sou desenvolvedor full stack com foco em **APIs escaláveis utilizando Node.js e NestJS** e na construção de **interfaces modernas, responsivas e acessíveis com React**. Gosto de trabalhar com código bem estruturado, boas práticas e soluções pensadas para ambiente real de produção, sempre buscando evoluir tecnicamente e entregar software de qualidade.
+Construo aplicações web escaláveis de ponta a ponta, desde a modelagem de dados e regras de negócio até APIs, comunicação em tempo real e interfaces modernas.
+
+Minha stack principal é React, TypeScript e NestJS, com foco em arquitetura bem definida, código organizado, testes automatizados e deploy containerizado para cenários reais de produção.
+
+Tenho grande interesse em design de sistemas, arquiteturas modulares e na construção de softwares que sejam manuteníveis, testáveis e escaláveis ao longo do tempo.
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
   <a href="https://kadadev.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0099f4?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxwYXRoIGQ9Ik0zMCA1Ljk4NGgtNy45ODh2LTEuOTM4YzAtMS42NTUtMS4zNDYtMy0zLTNoLTYuMDE0Yy0xLjY1NSAwLTMgMS4zNDUtMyAzdjEuOTM4aC03Ljk5OWMtMS4wOTkgMC0yIDAuOTAxLTIgMnY3LjAwOGgtMC4wMDF2MmgwLjAwMXYxMS45NjNjMCAxLjA5OSAwLjkgMiAyIDJoMjhjMS4wOTkgMCAyLTAuOTAxIDItMnYtMjAuOTcxYzAtMS4wOTktMC45MDEtMi0yLTJoMHpNMTEuOTk5IDQuMDQ2YzAtMC41NTIgMC40NDgtMSAxLTFoNi4wMTNjMC41NTIgMCAxIDAuNDQ4IDEgMXYxLjkzOGgtOC4wMTR6TTIuMDAxIDcuOTg0aDI4djcuMDA4aC0xMS4wMTJ2LTEuMDI0YzAtMS4xMDItMC44OTgtMi0yLTJoLTEuOTkyYy0xLjEwMiAwLTIgMC44OTgtMiAydjEuMDI0aC0xMC45OTZ2LTcuMDA4ek0xNi45OSAxOS4wMDRoLTEuOTk0di01LjAzNmgxLjk5MnpNMiAyOC45NTR2LTExLjk2M2gxMC45OTZ2Mi4wMTJjMCAxLjEwMiAwLjg5NyAyIDIgMmgxLjk5MmMxLjEwMiAwIDItMC44OTggMi0ydi0yLjAxMmgxMS4wMTJ2MTEuOTYzaC0yOHoiLz4gPC9nPgoNPC9zdmc+" alt="Portfólio profissional Daniel Kadã"></a>
