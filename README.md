@@ -109,27 +109,4 @@ Aplicação web full stack para gerenciamento de metas pessoais e acompanhamento
 - **Back-end:** NestJS, TypeScript, Prisma, PostgreSQL, REST API
 - **Infra:** Docker, Nginx, Git/GitHub, CI/CD
 
-### 📚 Jovem Books - Sistema de Gestão e Catálogo de Livros - [Deploy](https://jovembooks.com.br/sign-up)
-
-Aplicação web full stack para gerenciamento de livros, usuários e fluxo de dados, desenvolvida com foco em organização, clareza de código e boas práticas.
-
-#### Funcionalidades
-
-- Cadastro e listagem de livros
-- Operações CRUD completas
-- Envio de arquivos seguros através de pre-signed URLs
-- Integração eficiente e segura entre front-end e API REST
-
-#### Diferenciais Técnicos
-
-- Separação clara de responsabilidades entre camadas
-- API REST bem estruturada e tipada
-- Validações e tratamento de erros consistentes
-- Interface focada em simplicidade e experiência do usuário
-
-#### Tecnologias
-
-- **Front-end:** React, TypeScript, Vite, TailwindCSS
-- **Back-end:** Node.js, Express, TypeScript, Prisma, AWS (pre-signed URLs, S3) 
-
 
