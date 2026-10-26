@@ -1,112 +1,169 @@
-# 🧑🏻‍💻 Daniel (Kadã) Oliveira
+# Olá, eu sou o Daniel (Kadã) Oliveira 👋
 
-**`Full Stack Software Engineer | React • TypeScript • NestJS • System Architecture`**
+<a href="https://github.com/oliveiradniel">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0099F4&vCenter=true&width=820&lines=Full+Stack+Engineer+%7C+TypeScript+%C2%B7+NestJS+%C2%B7+React;AWS+Serverless+%C2%B7+Lambda+%C2%B7+DynamoDB+%C2%B7+SQS;IA+aplicada%3A+RAG%2C+LLMs+e+TensorFlow.js;%24+git+push+-u+origin+main+%F0%9F%9A%80" alt="Full Stack Engineer | TypeScript, NestJS, React, AWS Serverless e IA aplicada" />
+</a>
 
-Construo aplicações web escaláveis de ponta a ponta, desde a modelagem de dados e regras de negócio até APIs, comunicação em tempo real e interfaces modernas.
+Sou **Full Stack Engineer** e construo aplicações web de ponta a ponta, da modelagem de dados e regras de negócio até APIs e interfaces modernas. Minha stack principal é **TypeScript**, **NestJS** e **React**.
 
-Minha stack principal é React, TypeScript e NestJS, com foco em arquitetura bem definida, código organizado, testes automatizados e deploy containerizado para cenários reais de produção.
+No dia a dia trabalho com:
 
-Tenho grande interesse em design de sistemas, arquiteturas modulares e na construção de softwares que sejam manuteníveis, testáveis e escaláveis ao longo do tempo.
+- **Modelagem de banco de dados** em PostgreSQL, com Prisma, TypeORM ou SQL puro, e migrations versionadas
+- **Autenticação e controle de acesso baseado em cargos (RBAC)**, com permissões por módulo e ação
+- **Fluxos de negócio** com etapas de aprovação e notificações por e-mail
+- **Front-ends em React** com TanStack (Router, Query, Table), Zustand, React Hook Form e Zod
+- **Componentes documentados no Storybook** e testes com **Vitest**
 
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <a href="https://kadadev.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0099f4?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxwYXRoIGQ9Ik0zMCA1Ljk4NGgtNy45ODh2LTEuOTM4YzAtMS42NTUtMS4zNDYtMy0zLTNoLTYuMDE0Yy0xLjY1NSAwLTMgMS4zNDUtMyAzdjEuOTM4aC03Ljk5OWMtMS4wOTkgMC0yIDAuOTAxLTIgMnY3LjAwOGgtMC4wMDF2MmgwLjAwMXYxMS45NjNjMCAxLjA5OSAwLjkgMiAyIDJoMjhjMS4wOTkgMCAyLTAuOTAxIDItMnYtMjAuOTcxYzAtMS4wOTktMC45MDEtMi0yLTJoMHpNMTEuOTk5IDQuMDQ2YzAtMC41NTIgMC40NDgtMSAxLTFoNi4wMTNjMC41NTIgMCAxIDAuNDQ4IDEgMXYxLjkzOGgtOC4wMTR6TTIuMDAxIDcuOTg0aDI4djcuMDA4aC0xMS4wMTJ2LTEuMDI0YzAtMS4xMDItMC44OTgtMi0yLTJoLTEuOTkyYy0xLjEwMiAwLTIgMC44OTgtMiAydjEuMDI0aC0xMC45OTZ2LTcuMDA4ek0xNi45OSAxOS4wMDRoLTEuOTk0di01LjAzNmgxLjk5MnpNMiAyOC45NTR2LTExLjk2M2gxMC45OTZ2Mi4wMTJjMCAxLjEwMiAwLjg5NyAyIDIgMmgxLjk5MmMxLjEwMiAwIDItMC44OTggMi0ydi0yLjAxMmgxMS4wMTJ2MTEuOTYzaC0yOHoiLz4gPC9nPgoNPC9zdmc+" alt="Portfólio profissional Daniel Kadã"></a>
-  <a href="https://www.linkedin.com/in/kadadniel/"><img src="https://img.shields.io/badge/LinkedIn-0099f4?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxnIGlkPSI3OTM1ZWM5NWM0MjFjZWU2ZDg2ZWIyMmVjZDEyNWFlZiI+IDxwYXRoIHN0eWxlPSJkaXNwbGF5OiBpbmxpbmU7IGZpbGwtcnVsZTogZXZlbm9kZDsgY2xpcC1ydWxlOiBldmVub2RkOyIgZD0iTTExNi41MDQsNTAwLjIxOVYxNzAuNjU0SDYuOTc1djMyOS41NjRIMTE2LjUwNCBMMTE2LjUwNCw1MDAuMjE5eiBNNjEuNzUxLDEyNS42NzRjMzguMTgzLDAsNjEuOTY4LTI1LjMyOCw2MS45NjgtNTYuOTUzYy0wLjcyMi0zMi4zMjgtMjMuNzg1LTU2Ljk0MS02MS4yNTItNTYuOTQxIEMyNC45OTQsMTEuNzgxLDAuNSwzNi4zOTQsMC41LDY4LjcyMmMwLDMxLjYyNSwyMy43NzIsNTYuOTUzLDYwLjUzLDU2Ljk1M0g2MS43NTFMNjEuNzUxLDEyNS42NzR6IE0xNzcuMTI0LDUwMC4yMTkgYzAsMCwxLjQzNy0yOTguNjQzLDAtMzI5LjU2NEgyODYuNjd2NDcuNzk0aC0wLjcyN2MxNC40MDQtMjIuNDksNDAuMzU0LTU1LjUzMyw5OS40NC01NS41MzMgYzcyLjA4NSwwLDEyNi4xMTYsNDcuMTAzLDEyNi4xMTYsMTQ4LjMzM3YxODguOTcxSDQwMS45NzFWMzIzLjkxMmMwLTQ0LjMwMS0xNS44NDgtNzQuNTMxLTU1LjQ5Ny03NC41MzEgYy0zMC4yNTQsMC00OC4yODQsMjAuMzgtNTYuMjAyLDQwLjA4Yy0yLjg5Nyw3LjAxMi0zLjYwMiwxNi44NjEtMy42MDIsMjYuNzExdjE4NC4wNDdIMTc3LjEyNEwxNzcuMTI0LDUwMC4yMTl6Ij4gPC9wYXRoPiA8L2c+IDwvZz4KDTwvc3ZnPg==" alt="Perfil do Daniel Kadã no LinkedIn"></a>
-  <a href = "mailto:kadadniel@gmail.com"><img src="https://img.shields.io/badge/Email-0099f4?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail do Daniel Kadã"></a>
-  <a href="https://www.instagram.com/kada.dev_/"><img src="https://img.shields.io/badge/Instagram-0099f4?style=for-the-badge&logo=instagram&logoColor=white" alt="Perfil do Daniel Kadã no Instagram"></a>
-</div>
+Hoje estou estudando a fundo **AWS Serverless** (Lambda, API Gateway, DynamoDB, SQS, S3 e Cognito) e **engenharia de software com IA** (RAG, LLMs, MCP e agentes). Em 2026 comecei a graduação em **Ciência da Computação**.
 
----
+Também presto freelances para profissionais. Gosto de atender clientes, entender o problema de cada um e apresentar soluções que façam sentido para o negócio.
 
-## 🛠️ Ferramentas & Tecnologias
-
-### Front End (UI/State/Forms)
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-20232A?style=for-the-badge&logo=react-hook-form&logoColor=61DAFB)](https://react-hook-form.com/)
-[![TanStack](https://img.shields.io/badge/TanStack_(Query,_Table,_Router)-20232A?style=for-the-badge&logo=tanstack&logoColor=61DAFB)](https://tanstack.com/)
-[![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/)
-
-### Back End (API/Auth/Messaging)
-
-[![Node.js](https://img.shields.io/badge/Node.js-84C00B?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/pt-br/)
-[![Prisma](https://img.shields.io/badge/Prisma-7B7C7F?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-A456BD?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-
-### Outros: Infra/Qualidade
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://git-scm.com/)
-[![Vitest](https://img.shields.io/badge/Vitest-1AED8D?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
-[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
-[![Docker & Docker Compose](https://img.shields.io/badge/Docker_&_Docker_Compose-428BFF?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+<p>
+  <a href="https://kadadev.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-kadadev.com.br-0099f4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio do Daniel Kadã"></a>
+  <a href="https://www.linkedin.com/in/kadadniel/"><img src="https://img.shields.io/badge/LinkedIn-kadadniel-0099f4?style=for-the-badge" alt="LinkedIn do Daniel Kadã"></a>
+  <a href="mailto:contatokadadev@gmail.com"><img src="https://img.shields.io/badge/Email-contatokadadev%40gmail.com-0099f4?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail do Daniel Kadã"></a>
+</p>
 
 ---
 
-## 🚀 Projetos
+## 🛠️ Com o que eu trabalho e estudo
 
-### 🗂️ JungleOps - Plataforma de Gestão Colaborativa em Tempo Real - [Deploy](https://jungleops.com.br/cadastro?redirect=%2Ftarefas)
- 
-Sistema web full stack para gestão de tarefas e colaboração em tempo real, projetado com foco em escalabilidade, arquitetura moderna e experiência do usuário.
+**Front-end** &nbsp; React · Next.js · TanStack (Router, Query, Table, Start) · Zustand · React Hook Form · Zod · Tailwind CSS · shadcn/ui · Storybook
 
-#### Funcionalidades
+**Back-end** &nbsp; Node.js · NestJS · Express · REST · JWT e refresh tokens · OAuth · RBAC · WebSockets · noções de mensageria e microsserviços
 
-- Autenticação centralizada e controle de acesso
-- Criação e gerenciamento de tarefas
-- Comentários e atualizações em tempo real via WebSockets
-- Sincronização automática de dados e notificações
-- Interface moderna, acessível e responsiva 
+**Dados** &nbsp; PostgreSQL · Prisma · TypeORM · SQL · DynamoDB (Single-Table Design) · Redis
 
-#### Diferenciais Técnicos
+**Cloud & DevOps** &nbsp; AWS (Lambda, API Gateway, DynamoDB, S3, CloudFront, SQS, SNS, Cognito, SES, CodeBuild) · Serverless Framework · Docker · Nginx · GitHub Actions
 
-- Arquitetura de microserviços em monorepo
-- Comunicação híbrida: HTTP, RabbitMQ e WebSockets
-- Front-end com componentes acessíveis e reutilizáveis
-- Gerenciamento de estado assíncrono com cache inteligente
+**Qualidade** &nbsp; Vitest · Jest · ESLint · Prettier · Husky · Commitlint
 
-#### Tecnologias
+**IA** &nbsp; RAG · embeddings · OpenAI e Gemini · MCP · agentes · TensorFlow.js
 
-- **Front-end:** React, TypeScript, Vite, TailwindCSS, shadcn/ui, Radix UI, React Hook Form, TanStack Query, Router, Table
-- **Back-end:** NestJS, Node.js, TypeScript, Swagger, TypeORM, PostgreSQL, RabbitMQ, WebSockets
-- **Infra:** Docker, Docker Compose, Nginx, CI/CD
-- **Outros:** Monorepo, Git/GitHub, Clean Code, Arquitetura Modular
-- 
-### 🚀 inOrbit - Plataforma de Gestão de Metas Semanais - [Deploy](https://app.inorbit.site/login)
- 
-Aplicação web full stack para gerenciamento de metas pessoais e acompanhamento de progresso, com gamificação e integração com GitHub.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,nodejs,nestjs,postgres,prisma,redis,aws,dynamodb,docker,githubactions,nginx,vitest,jest,tensorflow,git&perline=10" alt="Ícones das tecnologias que eu uso" />
+</p>
 
-#### Funcionalidades
+---
 
-- Criação de perfis e integração OAuth com GitHub
-- Definição e acompanhamento de metas semanais
-- Sistema de pontos, níveis e métricas de engajamento
-- Histórico detalhado de execuções
+## 🎓 Formação
 
-#### Diferenciais Técnicos
+- **Bacharelado em Ciência da Computação** · em andamento (início em 2026)
+- **Engenharia de Software com IA Aplicada** · UniPDS · em andamento (LLMs, integração com APIs de IA, MCP e agentes autônomos)
 
-- Modelagem de dados relacional com queries avançadas e validações temporais
-- API REST modular com NestJS e injeção de dependências
-- Testes unitários e de integração com Vitest e factories de mocks
-- Pipeline de CI/CD e deploy containerizado com Docker e Nginx
+---
 
-#### Tecnologias
+## 🚀 Projetos em destaque
 
-- **Front-end:** React, TypeScript, TanStack Router, React Hook Form, TailwindCSS
-- **Back-end:** NestJS, TypeScript, Prisma, PostgreSQL, REST API
-- **Infra:** Docker, Nginx, Git/GitHub, CI/CD
+### 🥗 [Foodiary API](https://github.com/oliveiradniel/foodiary-api) · AWS Serverless + IA
 
+API 100% serverless de um diário alimentar: o usuário envia a **foto ou o áudio** de uma refeição e a IA identifica os alimentos e calcula as calorias e os macronutrientes. Acompanha um app mobile em React Native (Expo).
 
+- **Serverless Framework** com infraestrutura como código (CloudFormation), Node.js 24 em ARM64 e esbuild
+- **Cognito** com Lambda Triggers (PreSignUp, PreTokenGeneration e CustomMessage com e-mails em React Email)
+- **DynamoDB Single-Table Design** com GSI, upload seguro com **S3 Presigned POST** e entrega via **CloudFront**
+- Processamento assíncrono com **SQS + DLQ** e alarmes no SNS; IA com `gpt-4.1-mini` e transcrição de áudio
+- Clean Architecture: entities, use cases, controllers, gateways e validação com Zod
+
+### ❓ LetMeAsk · IA com RAG &nbsp; [server](https://github.com/oliveiradniel/letmeask.server) · [web](https://github.com/oliveiradniel/letmeask.web)
+
+Transforma áudios gravados em salas em conhecimento pesquisável: o áudio é transcrito por IA, vira **embeddings** e as perguntas são respondidas com **busca vetorial + geração (RAG)** a partir do conteúdo real das gravações.
+`NestJS` `Prisma` `PostgreSQL` `Gemini` `React` `TanStack Query` `Web Speech API` `Docker`
+
+### 📚 Neural Book Rec · Machine Learning &nbsp; [server](https://github.com/oliveiradniel/neural-book-rec.server) · [web](https://github.com/oliveiradniel/neural-book-rec.web)
+
+Sistema de recomendação de livros com **redes neurais em TensorFlow.js**: feature engineering para gerar vetores de usuários e livros, treino supervisionado e predição de afinidade para recomendações personalizadas.
+`NestJS` `TensorFlow.js` `Prisma` `PostgreSQL` `React` `TanStack Table`
+
+### 🗂️ [JungleOps](https://github.com/oliveiradniel/jungleops) · Microsserviços
+
+Gestão colaborativa de tarefas em **monorepo com microsserviços em NestJS**. Foi onde aprendi na prática **mensageria e comunicação assíncrona entre serviços**, combinadas com HTTP e **WebSockets** para notificações em tempo real, auditoria de ações e autenticação centralizada com refresh token.
+`NestJS` `TypeORM` `PostgreSQL` `WebSockets` `React` `TanStack` `Docker Compose` `Nginx`
+
+### 🌌 inOrbit · Metas semanais &nbsp; [server](https://github.com/oliveiradniel/in.orbit-server) · [web](https://github.com/oliveiradniel/in.orbit-web)
+
+Gestão de metas com gamificação (pontos, níveis e métricas) e login via **GitHub OAuth**. API REST modular com **testes unitários e de integração** em Vitest.
+`NestJS` `Prisma` `PostgreSQL` `Vitest` `React` `TanStack Router` `Docker`
+
+<details>
+<summary><b>Mais projetos</b></summary>
+<br>
+
+| Projeto | Sobre | Stack |
+| --- | --- | --- |
+| [api-with-cognito-and-serverless](https://github.com/oliveiradniel/api-with-cognito-and-serverless) | Fluxo completo de autenticação serverless (cadastro, confirmação, login, refresh, recuperação de senha) | AWS Cognito, API Gateway, Lambda |
+| [opaque-refresh-tokens-redis](https://github.com/oliveiradniel/opaque-refresh-tokens-redis) | Rotação de refresh tokens opacos com detecção de reuso por família e scripts Lua atômicos | Node.js, Redis, Docker |
+| [forgeplan-server](https://github.com/oliveiradniel/forgeplan-server) · [web](https://github.com/oliveiradniel/forgeplan-web) | Controle de estoque e planejamento de produção industrial | Quarkus, React |
+| [student-classification-nn](https://github.com/oliveiradniel/student-classification-nn) | Rede neural de classificação multiclasse | Node.js, TensorFlow.js |
+| [fincheck-api](https://github.com/oliveiradniel/fincheck-api) · [front](https://github.com/oliveiradniel/fincheck-frontend) | Controle financeiro pessoal | NestJS, Prisma, React |
+| [waiterapp-api](https://github.com/oliveiradniel/waiterapp-api) · [web](https://github.com/oliveiradniel/waiterapp-fe) · [mobile](https://github.com/oliveiradniel/waiterapp-mobile) | Pedidos para pizzarias em tempo real (web + mobile) | Node.js, React, React Native |
+
+</details>
+
+---
+
+## 📜 Certificações
+
+<details>
+<summary><b>34 certificados JStack</b> (AWS, Serverless, back-end, banco de dados e front-end)</summary>
+
+#### ☁️ AWS & Serverless
+- Introdução à AWS
+- Introdução ao Serverless Framework
+- Dominando o Serverless Framework
+- APIs Serverless na AWS com API Gateway e Lambda Functions
+- Autenticação em APIs com Serverless e AWS Cognito
+- DynamoDB e Serverless Framework: o par perfeito
+- Modelando tabelas no DynamoDB com Single-Table Design
+- Alta performance e baixo custo com DynamoDB e Single-Table Design
+- DynamoDB Single-Table Design: Relacionamentos, Paginação e Buscas
+- Upload para o S3 com Lambda Functions e Presigned URLs
+- S3: Mais segurança com Presigned POSTs
+- Filas na AWS para Processamento Assíncrono com Lambda e SQS
+- Enviando e-mails com o AWS SES
+- Pipeline de CI/CD com GitHub Actions e AWS CodeBuild
+
+#### 🔐 Back-end, autenticação e arquitetura
+- Autenticação JWT em APIs Node.js
+- Implementando Refresh Tokens em APIs Node.js
+- Entendendo a estrutura de tokens JWT: criando a sua própria implementação
+- Inversion of Control, Dependency Injection e Dependency Inversion
+- 7 ferramentas para padronizar os seus projetos
+
+#### 🗄️ Banco de dados
+- Database Design: modelando bancos de dados do jeito certo
+- Esqueça os ORMs: vamos falar de SQL
+- SQL: Aggregate Functions, Views, Constraints e Keys
+- SQL: JOINS, JSON no Postgres e Índices
+
+#### ⚛️ Front-end
+- As novidades do React 19
+- Entendendo e trabalhando com o Next.js
+- Renderização: CSR, SSG, SSR, ISR ou DSG
+- React Query na prática
+- Optimistic Updates: UIs otimistas com React Query
+- Construindo tabelas com React Table (TanStack)
+- Gerenciamento de estados com Zustand
+- Construindo um Gerenciador de Estados do zero com React
+- Autenticação com Refresh Tokens no React
+- Documentando componentes com Storybook
+- Preparando apps React para produção: Code Splitting, Sentry, Clarity e +
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=oliveiradniel&include_all_commits=true&show_icons=true&rank_icon=github&show=prs_merged,reviews&number_format=long&hide_border=true&bg_color=00000000&title_color=0099f4&icon_color=0099f4&text_color=8b949e" alt="Estatísticas do GitHub do Daniel Kadã" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=oliveiradniel&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0099f4&text_color=8b949e" alt="Linguagens mais usadas pelo Daniel Kadã" />
+  </a>
+</p>
+
+<p align="center">
+  <code>$ git push -u origin main</code> &nbsp;·&nbsp; sempre aprendendo e entregando 🚀
+</p>
