@@ -19,9 +19,9 @@ Hoje estou estudando a fundo **AWS Serverless** (Lambda, API Gateway, DynamoDB, 
 Também presto freelances para profissionais. Gosto de atender clientes, entender o problema de cada um e apresentar soluções que façam sentido para o negócio.
 
 <p>
-  <a href="https://kadadev.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-kadadev.com.br-0099f4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio do Daniel Kadã"></a>
-  <a href="https://www.linkedin.com/in/kadadniel/"><img src="https://img.shields.io/badge/LinkedIn-kadadniel-0099f4?style=for-the-badge" alt="LinkedIn do Daniel Kadã"></a>
-  <a href="mailto:contatokadadev@gmail.com"><img src="https://img.shields.io/badge/Email-contatokadadev%40gmail.com-0099f4?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail do Daniel Kadã"></a>
+  <a href="https://kadadev.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0099f4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio do Daniel Kadã"></a>
+  <a href="https://www.linkedin.com/in/kadadniel/"><img src="https://img.shields.io/badge/LinkedIn-0099f4?style=for-the-badge" alt="LinkedIn do Daniel Kadã"></a>
+  <a href="mailto:contatokadadev@gmail.com"><img src="https://img.shields.io/badge/Email-0099f4?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail do Daniel Kadã"></a>
 </p>
 
 ---
